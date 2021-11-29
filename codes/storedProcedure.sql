@@ -24,6 +24,7 @@ select * from Movie;
 # stored Procedure creation
 /* USE: Instead of using same code again and again; we can create stored proc to save time */
 
+delimiter //
 CREATE PROCEDURE Movie_detail ()
 BEGIN
 	SELECT Film_Name
@@ -31,7 +32,6 @@ BEGIN
 		  ,Film_RunTime_min
 	FROM Movie
 
-	ORDER BY Film_Name ASC
+	ORDER BY Film_Name ASC;
     
-END &&
-DELIMITER   
+END // 
