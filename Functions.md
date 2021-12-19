@@ -1,18 +1,18 @@
 ----------------------------------------------------------------------------------------------------- 
-      Functions       |                    Use cases                                                 |
+|      Functions       |                    Use cases                                                 |
 -----------------------------------------------------------------------------------------------------
-       Mod(36,6)      |     use to find remainder     ; o/p - 0                                                                
-     Order By         |     use to sort the result set in asc / desc order
-                      |
-                      |
-                      |
-                      |
-                      |
-                      |
-                      |
-                      |
-                      |
-                      |
-                      |
-                      |
-                      |
+|       Mod(36,6)      |     use to find remainder     ; o/p - 0                                                                
+|     Order By         |     use to sort the result set in asc / desc order
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
