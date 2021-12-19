@@ -5,14 +5,4 @@
 |     Order By         |     use to sort the result set in asc / desc order
 |                      |
 |                      |
-|                      |
-|                      |
-|                      |
-|                      |
-|                      |
-|                      |
-|                      |
-|                      |
-|                      |
-|                      |
-|                      |
+
