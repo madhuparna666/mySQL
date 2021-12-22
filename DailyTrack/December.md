@@ -13,3 +13,5 @@
 - creating tables , modifying the table name , inserting the values in the table
 
 #### :dart: 22.12.2021
+- Foreign Key constraints 
+- Implementation of Foreign Key in 2 tables
