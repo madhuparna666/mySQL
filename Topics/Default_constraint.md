@@ -4,5 +4,8 @@
 
 ### The default value will be added to all new records, if no other value is specified.
 
+#### haven't passed the value for "GenderId" column. 
+#### Instead of that, Created default value when not specified at the time of Value Insertion.
+
 
 <img width="684" alt="Screenshot 2021-12-22 at 3 29 38 PM" src="https://user-images.githubusercontent.com/39347063/147074269-fcd2778e-9e3a-4f3a-9475-c4d689316404.png">
