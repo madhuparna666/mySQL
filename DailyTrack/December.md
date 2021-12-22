@@ -8,3 +8,8 @@
 #### :dart: 19.12.2021
 
 - practiced hackerRank problems
+
+#### :dart: 21.12.2021
+- creating tables , modifying the table name , inserting the values in the table
+
+#### :dart: 22.12.2021
