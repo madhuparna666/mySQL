@@ -24,4 +24,18 @@
 <img width="775" alt="Screenshot 2022-01-08 at 7 59 06 PM" src="https://user-images.githubusercontent.com/39347063/148647936-73ee912c-e29d-4186-99a3-f74d7b8aad21.png">
 
 
+<img width="699" alt="Screenshot 2022-01-08 at 8 01 32 PM" src="https://user-images.githubusercontent.com/39347063/148648013-0d20998a-e8f6-40a7-8c55-5f7096648cdc.png">
+
+<img width="677" alt="Screenshot 2022-01-08 at 8 02 15 PM" src="https://user-images.githubusercontent.com/39347063/148648039-6325dd7f-5112-4162-8d9a-849a153c82fa.png">
+
+<img width="677" alt="Screenshot 2022-01-08 at 8 02 46 PM" src="https://user-images.githubusercontent.com/39347063/148648059-327d203b
+
+<img width="678" alt="Screenshot 2022-01-08 at 8 03 15 PM" src="https://user-images.githubusercontent.com/39347063/148648087-632f8b3f-075d-496d-acf2-664329fe36de.png">
+-8996-4991-867f-30aa75669715.png">
+
+<img width="678" alt="Screenshot 2022-01-08 at 8 03 45 PM" src="https://user-images.githubusercontent.com/39347063/148648103-f9afade1-45a5-4af3-9a26-89951f224bf9.png">
+
+<img width="699" alt="Screenshot 2022-01-08 at 8 04 09 PM" src="https://user-images.githubusercontent.com/39347063/148648123-b4aadcdb-ab85-4378-b7ce-bfa9efd4f039.png">
+
+
 
