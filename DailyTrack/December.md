@@ -27,19 +27,9 @@
    - FOREIGN KEY
 
 #### :dart: 27.12.2021
+- Practiced some basic queries
 
 #### :dart: 29.12.2021
 
 #### :dart: 30.12.2021
 
-#### :dart: 1.1.2022
-
-#### :dart: 2.1.2022
-
-#### :dart: 3.1.2022
-
-#### :dart: 4.1.2022
-
-
-#### :dart: 5.1.2022
--
