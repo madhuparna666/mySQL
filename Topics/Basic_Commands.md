@@ -14,3 +14,12 @@
 <img width="710" alt="Screenshot 2022-01-08 at 6 14 50 PM" src="https://user-images.githubusercontent.com/39347063/148644620-07f02545-3cde-4792-a436-d895e5e26580.png">
 
 <img width="701" alt="Screenshot 2022-01-08 at 6 15 26 PM" src="https://user-images.githubusercontent.com/39347063/148644635-2277ff9d-64ee-49ef-ab7f-60a833f6e04a.png">
+
+<img width="702" alt="Screenshot 2022-01-08 at 6 19 34 PM" src="https://user-images.githubusercontent.com/39347063/148644766-333497de-55b3-4351-8088-01e93d0fca51.png">
+
+<img width="688" alt="Screenshot 2022-01-08 at 6 20 07 PM" src="https://user-images.githubusercontent.com/39347063/148644775-326d220f-9cf2-4356-9e0f-fae16ad43e5f.png">
+
+<img width="707" alt="Screenshot 2022-01-08 at 6 20 32 PM" src="https://user-images.githubusercontent.com/39347063/148644794-159601fa-eee0-4e30-8075-8e26c0fbb726.png">
+
+
+
