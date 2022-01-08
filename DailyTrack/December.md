@@ -20,7 +20,11 @@
 - DDL , DML, DCL commands
 
 #### :dart: 25.12.2021
--
+- Integrity Constraints 
+   - NOT NULL
+   - UNIQUE
+   - PRIMARY KEY
+   - FOREIGN KEY
 
 #### :dart: 27.12.2021
 
