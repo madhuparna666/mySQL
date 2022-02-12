@@ -12,6 +12,7 @@
 #### :dart: 12.2.2022
 
 - [Hackerrank Problem- Weather Observation_6](https://github.com/madhuparna666/mySQL/blob/7e41b3c56186131d0b745654c40ec9fadd906bcd/DailyTrack/Hackerrank%20Problems/Weather_Observations_station_6.md)
+- [Hackerrank Problem- Weather Observation 7](https://github.com/madhuparna666/mySQL/blob/37ecf9d004c75f586bc003faaa730b91cb290132/DailyTrack/Hackerrank%20Problems/Weather_Observations_station_7.md)
 - Not null key 
 - Unique Key
 - Primary Key
