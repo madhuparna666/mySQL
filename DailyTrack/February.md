@@ -18,3 +18,7 @@
 - Primary Key
 
 #### :dart: 13.2.2022
+- [Hackerrank Problem - Weather Observation 8](https://github.com/madhuparna666/mySQL/blob/b463d7d0110773b78360a81ca61175735e74ca25/DailyTrack/Hackerrank%20Problems/Weather_Observations_station_8.md)
+- Revised Primary key
+- Foreign Key
+- Default Constraint
