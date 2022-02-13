@@ -312,8 +312,55 @@ Knew More about --> Two-Pointer Algorithm
 - Trie Data Structure
     - Insert , Search
 
+
 :date::date: FEBRUARY,2022
 
 ### :round_pushpin: 1.2.22
+- Merge Intervals
+- Minimum number of taps to open to water the garden
+
+### :round_pushpin: 2.2.22
+- Trapping Rain Water
+
+### :round_pushpin: 3.2.22
+- Find All lonely numbers in an array
+- Valid Mountain Array
+
+### :round_pushpin: 4.2.22
+- Implement Trie Prefix Tree
+
+### :round_pushpin: 7.2.22
+- Richest Customer Wealth
+- Rearrange Array Elements by Sign
+
+### :round_pushpin: 8.2.22
+- Maximum XOR of 2 numbers in an array
+- Sort Array by Parity 
+- Sort Array By Parity II
+- Sort Odd and Even Indices independently
+- Find all disappeared element in an array
+- Majority Element
+- Valid Palindrome
+- Valid Palindrome II
+
+
+### :round_pushpin: 9.2.22
+- Sort Colors 
+- Sort Lists
+- Wiggle Sort
+- Wiggle Sort II
+
+### :round_pushpin: 10.2.22
+- Convert Uppercase string to lowercase
+- Remove Special Character from a string
+- Remove Spaces from string
+- Find the palindrome
+
+
+### :round_pushpin: 11.2.22
+- Minimum sum of four digit number after splitting digits
+- How many numbers are smaller than the current number
+- Binary Search
+- Rotate Array
 
 
