@@ -23,4 +23,9 @@
 - Foreign Key
 - Default Constraint
 
-### :dart: 17.2.2022
+#### :dart: 17.2.2022
+ - Indexes 
+ - Revised Foreign key
+ - Views
+
+#### :dart: 18.2.2022
