@@ -12,7 +12,7 @@
 <img width="1332" alt="Screenshot 2022-02-18 at 12 10 22 PM" src="https://user-images.githubusercontent.com/39347063/154631259-a02c2faf-ca5d-496c-ab92-e133bd1d5b47.png">
 
 3. Output: 
-4. 
+
 <img width="1421" alt="Screenshot 2022-02-18 at 12 10 54 PM" src="https://user-images.githubusercontent.com/39347063/154631319-4314ca3c-420b-434b-b0cb-a9f8cd78f9fb.png">
 
 
