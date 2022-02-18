@@ -20,5 +20,10 @@
 
 ### Primary Key
 
+<img width="1152" alt="Screenshot 2022-02-18 at 12 46 43 PM" src="https://user-images.githubusercontent.com/39347063/154635768-cdc78e86-a50a-4e2a-813e-37775d35e0ad.png">
+-
+
+<img width="1152" alt="Screenshot 2022-02-18 at 12 49 23 PM" src="https://user-images.githubusercontent.com/39347063/154636165-d37bf65a-11c3-4ed8-bb5f-41d316137ef3.png">
+
 
 ### FOreign Key
