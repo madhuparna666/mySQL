@@ -24,7 +24,7 @@
 - Default Constraint
 
 #### :dart: 17.2.2022
- - Indexes 
+ - [Indexes](https://github.com/madhuparna666/mySQL/blob/9bddab75446038f9cd3b4b1189fbe098b16d82b9/Topics/Index.md) 
  - Revised Foreign key
  - [Views](https://github.com/madhuparna666/mySQL/blob/80aa43a1121848eb06e9e7df62ea3c9f684ed08a/Topics/Views.md)
 
