@@ -1,9 +1,11 @@
 
 
-1. Create Database ,
-2. Create tables and insert values into it
+### Create Database ,
+### Create tables and insert values into it
 
 <img width="1421" alt="Screenshot 2022-02-18 at 12 22 17 PM" src="https://user-images.githubusercontent.com/39347063/154632723-290ab427-64ba-4377-a239-7579daf8088f.png">
+
+# Insertion 
 
 <img width="1421" alt="Screenshot 2022-02-18 at 12 22 54 PM" src="https://user-images.githubusercontent.com/39347063/154632816-24e9490c-4719-4e38-bef5-571fbc9a82c5.png">
 
