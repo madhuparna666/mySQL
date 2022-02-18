@@ -11,7 +11,7 @@
 
 <img width="1245" alt="Screenshot 2022-02-18 at 12 36 41 PM" src="https://user-images.githubusercontent.com/39347063/154634479-59f00c74-da0d-4b1c-9f93-4dd161a34e99.png">
 
- - OUTPUT
+ - description of the table (Not output)
 
 <img width="1152" alt="Screenshot 2022-02-18 at 12 37 34 PM" src="https://user-images.githubusercontent.com/39347063/154634588-7e9f75f5-1276-4618-a0b4-90997b93da9b.png">
 
