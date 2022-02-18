@@ -16,3 +16,14 @@
 <img width="1421" alt="Screenshot 2022-02-18 at 12 10 54 PM" src="https://user-images.githubusercontent.com/39347063/154631319-4314ca3c-420b-434b-b0cb-a9f8cd78f9fb.png">
 
 
+### What kind of QUERIES DON'T WORK IN VIEWS (Important :bangbang:)
+- We can't write any queries and return it as views
+- View Doesn't support 
+     - Aggregate
+     - Update statement
+     - Group by , having
+     - Left / right outer join
+     - subqueries
+     - Union
+
+
