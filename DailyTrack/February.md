@@ -30,7 +30,7 @@
 
 #### :dart: 18.2.2022
 
-- Implemented Views 
+- Implemented [Views](https://github.com/madhuparna666/mySQL/blob/80aa43a1121848eb06e9e7df62ea3c9f684ed08a/Topics/Views.md)
 - Inner Join
 - revised Foreign Key
 
