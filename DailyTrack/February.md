@@ -29,3 +29,9 @@
  - Views
 
 #### :dart: 18.2.2022
+
+- Implemented Views 
+- Inner Join
+- revised Foreign Key
+
+
