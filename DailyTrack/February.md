@@ -35,6 +35,6 @@
 - revised Foreign Key
 
 #### :dart: 20.2.2022
-- Join
+- [Join + Join Interview](https://github.com/madhuparna666/mySQL/blob/00374e5b8066eea48e9dae70c308f9582e542d5d/Topics/Joins_interview.md)
 
 
