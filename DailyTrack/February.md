@@ -34,4 +34,7 @@
 - Inner Join
 - revised Foreign Key
 
+#### :dart: 20.2.2022
+- Join
+
 
