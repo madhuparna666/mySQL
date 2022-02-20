@@ -18,7 +18,7 @@
 ### Full Outer Join
 
 <img width="982" alt="Screenshot 2022-02-20 at 11 05 41 PM" src="https://user-images.githubusercontent.com/39347063/154855967-4d31964b-d16f-433e-8d6c-c34175c095a0.png">
-<img width="982" alt="Screenshot 2022-02-20 at 11 06 35 PM" src="https://user-images.githubusercontent.com/39347063/154855995-f06d0ced-8919-45cf-a9b3-948ae6c93d50.png">
+<img width="982" alt="Screenshot 2022-02-20 at 11 13 48 PM" src="https://user-images.githubusercontent.com/39347063/154856264-458b5772-8425-4303-baf8-1b5be51c3ca4.png">
 
 ### Cross Join
 
