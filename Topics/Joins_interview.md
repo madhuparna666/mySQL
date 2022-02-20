@@ -7,13 +7,16 @@
 ### Left Join
 
 <img width="979" alt="Screenshot 2022-02-20 at 11 03 33 PM" src="https://user-images.githubusercontent.com/39347063/154855899-8bd8ab07-c603-40fd-9072-69b44b15466f.png">
-<img width="979" alt="Screenshot 2022-02-20 at 11 03 57 PM" src="https://user-images.githubusercontent.com/39347063/154855909-9498dfea-3710-4050-b09f-10d471c64ca1.png">
+<img width="982" alt="Screenshot 2022-02-20 at 11 12 06 PM" src="https://user-images.githubusercontent.com/39347063/154856221-836a85fe-6a64-43d9-936f-1bd81feb7199.png">
+
 
 ### Right Join
 
 <img width="979" alt="Screenshot 2022-02-20 at 11 04 22 PM" src="https://user-images.githubusercontent.com/39347063/154855925-e6fa301a-a068-48a4-b9d1-d08ca30a4b15.png">
-<img width="979" alt="Screenshot 2022-02-20 at 11 05 16 PM" src="https://user-images.githubusercontent.com/39347063/154855957-6409c1d7-fc0b-4493-89ed-546175d0108c.png">
-Full Outer Join
+<img width="982" alt="Screenshot 2022-02-20 at 11 12 28 PM" src="https://user-images.githubusercontent.com/39347063/154856228-28357822-e387-403d-ac1c-fbbd2024d2b1.png">
+
+### Full Outer Join
+
 <img width="982" alt="Screenshot 2022-02-20 at 11 05 41 PM" src="https://user-images.githubusercontent.com/39347063/154855967-4d31964b-d16f-433e-8d6c-c34175c095a0.png">
 <img width="982" alt="Screenshot 2022-02-20 at 11 06 35 PM" src="https://user-images.githubusercontent.com/39347063/154855995-f06d0ced-8919-45cf-a9b3-948ae6c93d50.png">
 
