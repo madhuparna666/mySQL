@@ -56,10 +56,11 @@
 
 <img width="1045" alt="Screenshot 2022-02-21 at 7 17 49 PM" src="https://user-images.githubusercontent.com/39347063/154967389-8f4f710f-90ad-4ece-9bff-b6451ca36f0a.png">
 
-If I want to remove the dupliactes from above output; then we might think that WE CAN USE DISTINCT. BUT IT WILL THROUGH AN ERROR
+- If I want to remove the dupliactes from above output; then we might think that WE CAN USE DISTINCT. BUT IT WILL THROUGH AN ERROR
+
 <img width="1045" alt="Screenshot 2022-02-21 at 7 19 04 PM" src="https://user-images.githubusercontent.com/39347063/154967591-cfcc995a-ba6c-4e4c-bfe9-f4c1f719c2c3.png">
 
-ERROR 
+- ERROR 
 <img width="1198" alt="Screenshot 2022-02-21 at 7 19 24 PM" src="https://user-images.githubusercontent.com/39347063/154967642-fcc6bf90-1b7b-4772-8656-7011ec3990d0.png">
 
 
