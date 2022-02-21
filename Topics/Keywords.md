@@ -23,4 +23,7 @@
 
 ### ORDER BY
 
+### see the year of exp column - iit doesn't have any order
+<img width="686" alt="Screenshot 2022-02-21 at 6 58 39 PM" src="https://user-images.githubusercontent.com/39347063/154964403-a503c307-7cb0-45e3-bdf4-44b62e09e50b.png">
+
 
