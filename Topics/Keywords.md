@@ -30,3 +30,25 @@
 
 <img width="942" alt="Screenshot 2022-02-21 at 7 00 34 PM" src="https://user-images.githubusercontent.com/39347063/154964684-44c1452f-2dfb-4650-8c69-98d45cbe7e21.png">
 
+
+### Examples on ORDER BY
+
+- show the names who have experience (ascending order)
+
+<img width="942" alt="Screenshot 2022-02-21 at 7 01 48 PM" src="https://user-images.githubusercontent.com/39347063/154964878-2d905578-5565-4cd5-8ac8-3542ad155895.png">
+
+- Show the names and year of experience who have year of exp (in descending order)
+
+<img width="942" alt="Screenshot 2022-02-21 at 7 03 44 PM" src="https://user-images.githubusercontent.com/39347063/154965189-ded651f5-d253-4eda-be0c-7786b2d80a10.png">
+
+- new type of examples:
+<img width="942" alt="Screenshot 2022-02-21 at 7 05 45 PM" src="https://user-images.githubusercontent.com/39347063/154965516-6daafb74-c954-4380-b198-60dd35e9396f.png">
+
+<img width="1065" alt="Screenshot 2022-02-21 at 7 06 31 PM" src="https://user-images.githubusercontent.com/39347063/154965649-98b5fd1a-e229-4afc-9c5e-4f556673ead4.png">
+
+
+
+
+
+
+
