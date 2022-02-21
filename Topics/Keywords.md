@@ -47,6 +47,18 @@
 <img width="1065" alt="Screenshot 2022-02-21 at 7 06 31 PM" src="https://user-images.githubusercontent.com/39347063/154965649-98b5fd1a-e229-4afc-9c5e-4f556673ead4.png">
 
 
+### LIMIT
+
+
+<img width="1065" alt="Screenshot 2022-02-21 at 7 11 35 PM" src="https://user-images.githubusercontent.com/39347063/154966369-5ee22b38-ecdb-440f-ae3b-5056b4e0f88c.png">
+
+<img width="1045" alt="Screenshot 2022-02-21 at 7 13 57 PM" src="https://user-images.githubusercontent.com/39347063/154966770-af7d0063-8608-4820-ac57-c6b4777c114c.png">
+
+
+### LIKE
+
+
+
 
 
 
