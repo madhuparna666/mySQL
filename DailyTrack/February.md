@@ -47,7 +47,7 @@
 
 #### :dart: 22.2.2022
 
-- Weather_observation 10
+- [Weather_observation 10](https://github.com/madhuparna666/mySQL/blob/2229a73a3c6a9dd2d66bd9a0b842856d021c80f5/DailyTrack/Hackerrank%20Problems/Weather_observation_station_10.md)
 - [Population Census (Join problem)](https://github.com/madhuparna666/mySQL/blob/237ec8887d2a52caafa808762f5c8d6d1d2de9d1/DailyTrack/Hackerrank%20Problems/Population%20Census.md)
 
 #### :dart: 23.2.2022
