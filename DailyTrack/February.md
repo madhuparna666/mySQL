@@ -48,6 +48,6 @@
 #### :dart: 22.2.2022
 
 - Weather_observation 10
-- Population Census (Join problem)
+- [Population Census (Join problem)](https://github.com/madhuparna666/mySQL/blob/237ec8887d2a52caafa808762f5c8d6d1d2de9d1/DailyTrack/Hackerrank%20Problems/Population%20Census.md)
 
 #### :dart: 23.2.2022
