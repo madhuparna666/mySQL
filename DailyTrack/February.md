@@ -44,3 +44,10 @@
 - LIMIT
 - LIKE
 - Example on Foreign Key
+
+#### :dart: 22.2.2022
+
+- Weather_observation 10
+- Population Census (Join problem)
+
+#### :dart: 23.2.2022
