@@ -74,6 +74,11 @@
 
 ### LIKE
 
+<img width="904" alt="Screenshot 2022-02-27 at 4 56 49 PM" src="https://user-images.githubusercontent.com/39347063/155880563-5cb0c650-39fb-45e7-b6cf-7cb56a57d358.png">
+<img width="881" alt="Screenshot 2022-02-27 at 4 57 19 PM" src="https://user-images.githubusercontent.com/39347063/155880579-1c323613-5113-41bc-b542-31aa776624f2.png">
+<img width="893" alt="Screenshot 2022-02-27 at 4 57 43 PM" src="https://user-images.githubusercontent.com/39347063/155880594-f6f213a6-57ff-450d-bb94-7a2aab7d31c4.png">
+
+
 
 
 
