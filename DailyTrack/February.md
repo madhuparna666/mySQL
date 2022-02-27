@@ -42,7 +42,7 @@
 - Distinct
 - Order By
 - LIMIT
-- LIKE
+- [LIKE](https://github.com/madhuparna666/mySQL/blob/5edd2c92d6a8244120c29a0010d03211a2476f05/Topics/Keywords.md)
 - Example on Foreign Key
 
 #### :dart: 22.2.2022
