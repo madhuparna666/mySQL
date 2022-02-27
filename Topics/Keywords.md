@@ -66,7 +66,7 @@
 
 
 
-### LIMIT
+### LIMIT - more relevant examples
 
 <img width="981" alt="Screenshot 2022-02-27 at 4 43 40 PM" src="https://user-images.githubusercontent.com/39347063/155880130-78fc46d0-299d-491e-ad28-610de853282e.png">
 <img width="803" alt="Screenshot 2022-02-27 at 4 44 08 PM" src="https://user-images.githubusercontent.com/39347063/155880137-bb370e51-38cc-41ad-b695-fe2b2e40fbe0.png">
