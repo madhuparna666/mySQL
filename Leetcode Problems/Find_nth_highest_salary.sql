@@ -82,7 +82,33 @@ SELECT IFNULL((SELECT DISTINCT salary
                LIMIT 1 OFFSET 1 ), NULL) AS SecondHighestSalary;
 
 -- SOLUTION 3
+/*
+input : 
++----+--------+
+| id | salary |
++----+--------+
+| 1  | 100    |
+| 2  | 200    |
+| 3  | 300  
+  4  | 300 
+  5  | 200
++----+--------+
 
+output of dense_rank()
+300 , 1
+300 , 1
+200 , 2
+200 , 2
+100 , 3
+
+distinct:
+300 , 1
+200 , 2
+100 , 3
+
+
+
+*/
 SELECT IFNULL((              
 SELECT DISTINCT salary  
 FROM (SELECT salary , dense_rank() 
