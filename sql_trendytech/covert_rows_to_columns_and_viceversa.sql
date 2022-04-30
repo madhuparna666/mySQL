@@ -41,9 +41,11 @@ into emp_salary_pivott
 from emp_salary
 group by id;
 
+select * from(
 select id,'salary' as salary_comp_type,salary as val from emp_salary_pivott
 union all
 select id,'bonus' as salary_comp_type,bonus as val from emp_salary_pivott
 union all 
 select id,'hike_percent' as salary_comp_type,hike_percent as val from emp_salary_pivott
-
+) a 
+order by id
