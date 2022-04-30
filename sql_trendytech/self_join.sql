@@ -11,7 +11,7 @@ INSERT INTO EMP(EMP_ID , EMP_NAME, SALARY, MANAGER_ID) VALUES (8,'Asish',5000,2)
 
 -- SELF JOIN
 
-select e.emp_id, e.emp_name,m.emp_name as Manager
+select e.emp_id, e.emp_name,m.emp_name as Manager, e.salary as engineer_salary , m.salary as manager_salary
 from emp e 
 inner join emp m 
 on e.manager_id = m.emp_id
