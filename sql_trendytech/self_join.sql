@@ -17,3 +17,14 @@ inner join emp m
 on e.manager_id = m.emp_id
 order by emp_id;
 
+
+-- wrong output
+select e.emp_id, 
+e.emp_name,
+e.salary,
+m.salary as manager_salary
+from emp e 
+inner join emp m 
+on e.manager_id = m.emp_id
+where e.salary > m.salary;
+
