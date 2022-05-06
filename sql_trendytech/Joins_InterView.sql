@@ -6,8 +6,8 @@ select * from trendytech;
 
 select * from students;
 
--- selected_course(students) and course_id (trendytech) are logically same
-SELECT course_name
+-- selected_course(students table ) and course_id (trendytech table) are logically same
+SELECT course_name,course_id
 FROM trendytech
 WHERE course_id = 
 (SELECT selected_course
@@ -60,6 +60,7 @@ ON students.selected_course = trendytech.course_id;
 -- all the matching records 
 -- all the non-matching records from left table
 -- all the non matching records from right table
+
 -- IN MYSQL WE DON'T HAVE THE KEYWORD : FULL OUTER JOIN
 
 -- WE CAN DO THE SAME OPERATION USING 'UNION'
