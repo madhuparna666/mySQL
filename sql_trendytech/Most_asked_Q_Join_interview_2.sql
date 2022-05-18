@@ -46,3 +46,13 @@ UNION
 select * from t1
 right join t2 on t1.id1 = t2.id2;
 
+
+-- when we are INSERTING 'NULL' VALUE using insert keyword in both the tables, 
+-- then for a single row we will get null values as a result of doing join operation
+-- *** > one Null is not equal to another null . this is important to remember, 
+-- so as a output of Outer join it will return extra two values for each of the null 
+
+
+insert into t1 values(null);
+insert into t2 values(null);
+
