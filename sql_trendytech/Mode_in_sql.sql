@@ -16,6 +16,16 @@ insert into mode(id)values(3);
 insert into mode(id)values(4);
 insert into mode(id)values(5);
 
+insert into mode(id)values(2);
+insert into mode(id)values(2);
+
+/*
+NOw we have freq of 4 = 4 and freq of 3 = 4. 
+I.e. freq is same for both and both are maximum
+so what should be result? > both in method 1 : cte
+*/
+
+
 select * from mode;
 
 
