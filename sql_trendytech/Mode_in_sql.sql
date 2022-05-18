@@ -20,6 +20,17 @@ select * from mode;
 
 
 
+-- will return the frequency of each unique number
+select id, count(*) as freq from mode group by id;
+
+-- Method CTE(common table expression)
+
+with freq_cte as (
+select id, count(*) as freq from mode group by id)
+
+select * from freq_cte
+where freq = 
+	(select max(freq) from freq_cte);
 
 
 
