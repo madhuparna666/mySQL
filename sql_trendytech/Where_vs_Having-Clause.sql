@@ -6,7 +6,7 @@ SELECT source_of_joining, count(*) as total
 FROM STUDENTS
 group by source_of_joining;
 
--- will through error
+-- below code will through error
 -- why ?
 -- The where clause is used BEFORE group BY; but here I used after 'group by'
 -- it means where clause is good to filter individual records before aggregation(here:group by)
