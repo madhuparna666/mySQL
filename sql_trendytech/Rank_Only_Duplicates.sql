@@ -39,11 +39,28 @@ select id
 from list 
 group by id 
 having count(1) > 1),
+
 cte_rank as (select * , rank() over(order by id asc ) as rank_of_duplicates
-from cte_dups)
+			 from cte_dups)
 select l.*, rank_of_duplicates
 from list l left join cte_rank cr
 on l.id = cr.id;
+
+
+with cte_dups1 as (
+select id 
+from list 
+group by id 
+having count(1) > 1
+),
+cte_rank1 as (select * , rank() over(order by id asc ) as rn
+			  from cte_dups1 )
+select l.* , 'Dup' + cast(cr1.rn as char(15)) as output 
+from list l  
+left join  cte_rank1 cr1   
+on l.id = cr1.id; 
+              
+
 
 
 
