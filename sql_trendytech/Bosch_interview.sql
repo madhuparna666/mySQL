@@ -33,6 +33,22 @@ group by call_number)
 
 select call_number from cte_numbers
 where out_duration is not null and inc_duration is not null
-	  and out_duration > inc_duration
+	  and out_duration > inc_duration;
 
+-- using Having clause 
+
+select call_number,
+sum(case when call_type = 'OUT' then call_duration else null end) as out_duration ,
+sum(case when call_type = 'INC' then call_duration else null end) as inc_duration
+from call_details
+group by call_number
+having out_duration > 0 and inc_duration > 0 
+and out_duration > inc_duration;
+-- same with above, just removed out_duration , inc_duration from select statement
+select call_number 
+from call_details 
+group by call_number
+having sum(case when call_type = 'OUT' then call_duration else null end)  > 0 and
+	   sum(case when call_type = 'INC' then call_duration else null end ) > 0 and 
+       sum(case when call_type = 'OUT' then call_duration else null end) > sum(case when call_type = 'INC' then call_duration else null end );
 
