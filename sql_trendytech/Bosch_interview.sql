@@ -52,3 +52,47 @@ having sum(case when call_type = 'OUT' then call_duration else null end)  > 0 an
 	   sum(case when call_type = 'INC' then call_duration else null end ) > 0 and 
        sum(case when call_type = 'OUT' then call_duration else null end) > sum(case when call_type = 'INC' then call_duration else null end );
 
+
+
+
+
+-- using cte & join 
+-- created 2 ctes for incoming & outgoing
+with outgoing_call_cte as (
+select call_number ,
+sum(call_duration) as duration 
+from call_details
+where call_type = 'OUT'
+group by call_number),
+
+incoming_call_cte as (
+select call_number,
+sum(call_duration) as duration 
+from call_details
+where call_type = 'INC'
+group by call_number)
+
+
+select outgoing_call_cte.call_number
+from outgoing_call_cte
+inner join incoming_call_cte 
+on outgoing_call_cte.call_number = incoming_call_cte.call_number
+where outgoing_call_cte.duration > incoming_call_cte.duration;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
