@@ -13,13 +13,27 @@ select * from movie;
 
 -- there are 3 rows in a movie-hall each with 10 seats in each row
 -- waq to find 4 consecutive Empty Seats
--- a , b ,  c is a row , where a1 to a10 are seats; same goes for b,c
+-- a , b , c arerows , where a1 to a10 are seat_id; same goes for b,c
 
 -- function : left(): EXTRACT 3 CHARACTERS FROM THE STRING[ STARTING FROM LEFT ] , 
 -- right() : EXTRACT Number of CHARACTERS FROM THE STRING[ STARTING FROM RIGHT ] ;
 -- left ( "string" , 1 ) : 1 is number of char to extract	
 -- substring( "sql tutorial" , 5,3 ) : output - tut
 
+
+WITH CTE1 AS 
+(
+select * 
+, left(seat,1) as row_id,CAST(substring(seat,2,2) AS SIGNED) as seat_id
+from movie) 
+,cte2 as  -- cte 2
+(
+SELECT * 
+, MAX(occupancy) OVER(PARTITION BY row_id ORDER BY seat_id ROWS BETWEEN CURRENT ROW AND 3 FOLLOWING  ) AS is_4_empty
+, count(occupancy) OVER(PARTITION BY row_id ORDER BY seat_id ROWS BETWEEN CURRENT ROW AND 3 FOLLOWING  ) AS cnt
+FROM CTE1 
+)
+select * from cte2 where is_4_empty = 0 and cnt = 4;
 
 
 
