@@ -33,7 +33,15 @@ SELECT *
 , count(occupancy) OVER(PARTITION BY row_id ORDER BY seat_id ROWS BETWEEN CURRENT ROW AND 3 FOLLOWING  ) AS cnt
 FROM CTE1 
 )
-select * from cte2 where is_4_empty = 0 and cnt = 4;
+,cte3 as -- cte 3
+(
+select * from cte2 where is_4_empty = 0 and cnt = 4)
+
+select cte2.*
+from cte2
+inner join cte3
+on cte2.row_id = cte3.row_id
+and cte2.seat_id between cte3.seat_id and cte3.seat_id+3;
 
 
 
