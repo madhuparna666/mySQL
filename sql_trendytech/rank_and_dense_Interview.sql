@@ -3,7 +3,7 @@
 in the below example you can see it ranked 3 and 4 for same salary 20000;
  that is ambigious
  
- So if I want to see the 3rd & 4th highest salary then both are = 20000
+ So if I want to see the 3rd & 4th highest salary then both are = 20000 according to data
  
  solution : Rank() & dense_RANK() func
 */  
@@ -15,9 +15,9 @@ FROM employee;
 -- IT WILL HANDLE THE DUPLICATES IN PROPER WAY
 /*
 example: when we have 20000 salary for 2 employee ; we got 
-different rank using row_number() function ; but here for same salary it will assign same rank which is good .alter
+different rank using row_number() function ; but here for same salary it will assign same rank which is good .
 
-but it will skip the next rank as the current rank is repeated.alter
+but it will skip the next rank as the current rank is repeated.
 like rank 3 is returned twice so, rank 4 is missing. This is AMBIGIOUS
 
 ORDER BY IS MANDATORY WHILE USING RANK(), DENSE_RANK(), ROW_NUMBER() function
