@@ -51,11 +51,7 @@ Output:
 | null                   |
 +------------------------+
 
-
-
-
-
-
+SOLUTION :
 
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
@@ -69,3 +65,8 @@ SET N = N-1;
       LIMIT 1 OFFSET N) , NULL)
   );
 END
+
+
+
+NOTE : Say you want to get 5 artists, 
+but not the first five. You want to get rows 3 through 8. You’ll want to add an OFFSET of 2 to skip the first two rows.
