@@ -8,8 +8,10 @@ in the below example you can see it ranked 3 and 4 for same salary 20000;
  solution : Rank() & dense_RANK() func
 */  
 use customer;
+select * from employee;
+
 SELECT firstname,lastname,salary,
-row_number() OVER (ORDER BY salary DESC)
+row_number() OVER (ORDER BY salary DESC) as rank_r
 FROM employee;
 
 -- IT WILL HANDLE THE DUPLICATES IN PROPER WAY
@@ -23,7 +25,7 @@ like rank 3 is returned twice so, rank 4 is missing. This is AMBIGIOUS
 ORDER BY IS MANDATORY WHILE USING RANK(), DENSE_RANK(), ROW_NUMBER() function
 */
 SELECT firstname,lastname,salary,
-RANK() OVER(ORDER BY salary DESC)
+RANK() OVER(ORDER BY salary DESC)  as rank_f
 FROM EMPLOYEE;
 
 
@@ -34,7 +36,7 @@ example:1 for same salary 20k it returned same rank 3 . (row_number() funtion fa
 2. it does not skip the rank numbers when we get duplicates (rank() func failed to do this)
 */
 SELECT firstname,lastname,salary,
-DENSE_RANK() OVER(ORDER BY salary DESC)
+DENSE_RANK() OVER(ORDER BY salary DESC) as rank_d
 FROM EMPLOYEE;
 
 /*
