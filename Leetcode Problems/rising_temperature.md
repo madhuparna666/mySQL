@@ -48,7 +48,7 @@
 
 
 
-:round_pushpin: SOLUTION :
+:round_pushpin: SOLUTION 1:
 
 
               SELECT w.id 
@@ -56,6 +56,13 @@
               JOIN Weather as r 
               ON DATEDIFF(w.recordDate , r.recordDate) = 1
               AND w.temperature > r.temperature;
+
+
+:round_pushpin: SOLUTION 2:
+            SELECT w.id 
+            FROM Weather AS w , Weather as r 
+            WHERE DATEDIFF(w.recordDate , r.recordDate) = 1
+            AND w.temperature > r.temperature;
 
 
 
