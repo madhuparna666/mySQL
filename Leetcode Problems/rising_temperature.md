@@ -59,10 +59,11 @@
 
 
 :round_pushpin: SOLUTION 2:
-            SELECT w.id 
-            FROM Weather AS w , Weather as r 
-            WHERE DATEDIFF(w.recordDate , r.recordDate) = 1
-            AND w.temperature > r.temperature;
+
+                        SELECT w.id 
+                        FROM Weather AS w , Weather as r 
+                        WHERE DATEDIFF(w.recordDate , r.recordDate) = 1
+                        AND w.temperature > r.temperature;
 
 
 
