@@ -66,4 +66,20 @@
                         AND w.temperature > r.temperature;
 
 
+:round_pushpin:  NOTE:
+
+
+                        Return the difference between two date values, in years:
+
+                        SELECT DATEDIFF(year, '2017/08/25', '2011/08/25') AS DateDiff
+                        
+                        OUTPUT :
+                        
+                        DateDiff
+                        -6
+
+
+
+
+
 
