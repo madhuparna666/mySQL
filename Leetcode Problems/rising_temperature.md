@@ -1,5 +1,6 @@
 
 
+:round_pushpin: PROBLEM
 
             Table: Weather
 
@@ -47,7 +48,7 @@
 
 
 
-SOLUTION :
+:round_pushpin: SOLUTION :
 
 
               SELECT w.id 
