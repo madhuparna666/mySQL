@@ -65,7 +65,7 @@
              +------------+----------+--------+
              Explanation: Max and Jim both have the highest salary in the IT department and Henry has the highest salary in the Sales department.
 
-             :round_pushpin: SOLUTION : 
+:round_pushpin: SOLUTION : 
 
              SELECT D.name AS Department,
                     E.NAME AS Employee,
