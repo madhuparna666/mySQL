@@ -1,3 +1,5 @@
+:round_pushpin: PROBLEM :
+
 Table: Employee
 
 +--------------+---------+
@@ -63,7 +65,7 @@ Output:
 +------------+----------+--------+
 Explanation: Max and Jim both have the highest salary in the IT department and Henry has the highest salary in the Sales department.
 
-SOLUTION : 
+:round_pushpin: SOLUTION : 
 
 SELECT D.name AS Department,
        E.NAME AS Employee,
